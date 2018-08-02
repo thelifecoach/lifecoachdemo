@@ -2,9 +2,9 @@
   "name": "material-dashboard-react",
   "version": "1.4.0",
   "description": "Material Dashboard React. Coded by Creative Tim",
-  "private": false,
+  "private": true,
   "main": "dist/index.js",
-  "homepage": "https://thelifecoach.github.io/lifecoachdemo",
+  "homepage": "https://thelifecoach.github.io/lifecoachdemo/",
   "dependencies": {
     "@material-ui/core": "1.4.1",
     "@material-ui/icons": "2.0.0",
